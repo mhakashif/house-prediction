@@ -1,0 +1,10 @@
+Welcome to the house-prediction wiki!
+First  i have taken data set of house prediction
+That data set contains information like a bedrooms ,price ,area,age
+From this data will clean the data and keep in table format
+Data Preprocessing: Fill NA values with median value of a column
+We will apply  machine learning algorithms like multiple linear regression
+Multiple linear regression Here : Y = b0 + b1 * x1 + b2 * x2 + b3 * x3 + …… bn * xn 
+Here price is dependent variable and age , bedroom , area is independent variable 
+At last we can predict the price of any unknown house 
+To predict house price we must give about area , bedrooms , age 
