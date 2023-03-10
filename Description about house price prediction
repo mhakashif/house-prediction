@@ -1,5 +1,5 @@
 Welcome to the house-prediction wiki!
-First  i have taken data set of house prediction
+First  we have a data set of house prediction
 That data set contains information like a bedrooms ,price ,area,age
 From this data will clean the data and keep in table format
 Data Preprocessing: Fill NA values with median value of a column
